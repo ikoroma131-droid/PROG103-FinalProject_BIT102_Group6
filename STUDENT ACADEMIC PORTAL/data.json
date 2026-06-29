@@ -1,0 +1,269 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "FBC-Admin#2026"
+  },
+  "academic_meta": {
+    "institution": "Fourah Bay College, University of Sierra Leone",
+    "academic_year": "2025/2026",
+    "semester_label": "Semester 2, 2025/2026",
+    "current_week": 11,
+    "total_weeks": 16,
+    "next_class_code": "ENV201",
+    "next_class_time": "Today at 2:00 PM",
+    "next_class_room": "Room B204, New Science Building"
+  },
+  "courses": [
+    {
+      "code": "ENV201",
+      "name": "Environmental Science & Climate Resilience",
+      "credits": 3,
+      "instructor": "Dr. Sesay",
+      "color": "#3b82f6"
+    },
+    {
+      "code": "PHC202",
+      "name": "Public Health & Epidemic Preparedness",
+      "credits": 3,
+      "instructor": "Dr. Koroma",
+      "color": "#8b5cf6"
+    },
+    {
+      "code": "AGR203",
+      "name": "Agricultural Science & Food Security",
+      "credits": 3,
+      "instructor": "Prof. Bangura",
+      "color": "#06b6d4"
+    },
+    {
+      "code": "MIN204",
+      "name": "Mining Engineering & Resource Governance",
+      "credits": 3,
+      "instructor": "Dr. Conteh",
+      "color": "#10b981"
+    },
+    {
+      "code": "CVE205",
+      "name": "Civil Engineering & Infrastructure Development",
+      "credits": 3,
+      "instructor": "Prof. Turay",
+      "color": "#f59e0b"
+    },
+    {
+      "code": "ECN206",
+      "name": "Economics & Post-War Development",
+      "credits": 3,
+      "instructor": "Dr. Kargbo",
+      "color": "#ef4444"
+    }
+  ],
+  "students": {
+    "akamara": {
+      "password": "FBC@2026",
+      "fullname": "Aminata Kamara",
+      "id": "FBC-2024-0117",
+      "major": "Environmental Science",
+      "year": "3rd Year",
+      "gpa": "3.85",
+      "settings": {
+        "dark_mode": false,
+        "push_notifications": true,
+        "email_notifications": true
+      }
+    },
+    "immi": {
+      "password": "12345678",
+      "fullname": "immi",
+      "id": "9050023",
+      "major": "Civic Edcation",
+      "year": "1st Year",
+      "gpa": "4.00",
+      "settings": {
+        "dark_mode": false,
+        "push_notifications": true,
+        "email_notifications": true
+      }
+    },
+    "winiwini": {
+      "password": "12345678",
+      "fullname": "winifred",
+      "id": "FBC-2026-93DD",
+      "major": "structured programming",
+      "year": "2st Year",
+      "gpa": "0.00",
+      "settings": {
+        "dark_mode": false,
+        "push_notifications": true,
+        "email_notifications": true
+      }
+    },
+    "aziza": {
+      "password": "12345678",
+      "fullname": "khadijah",
+      "id": "FBC-2026-09D4",
+      "major": "computerized math",
+      "year": "3st Year",
+      "gpa": "0.00",
+      "settings": {
+        "dark_mode": false,
+        "push_notifications": true,
+        "email_notifications": true
+      }
+    },
+    "osman": {
+      "password": "123456",
+      "fullname": "osmn",
+      "id": "FBC-2026-D9C0",
+      "major": "Undeclared",
+      "year": "1st Year",
+      "gpa": "0.00",
+      "settings": {
+        "dark_mode": false,
+        "push_notifications": true,
+        "email_notifications": true
+      }
+    }
+  },
+  "results": {
+    "akamara": [
+      {
+        "id": "e9b27234",
+        "course": "Environmental Science & Climate Resilience",
+        "code": "ENV201",
+        "grade": "A",
+        "score": 95,
+        "semester": "Semester 1, 2025/2026"
+      },
+      {
+        "id": "dfcc3ded",
+        "course": "Public Health & Epidemic Preparedness",
+        "code": "PHC202",
+        "grade": "B+",
+        "score": 88,
+        "semester": "Semester 1, 2025/2026"
+      },
+      {
+        "id": "ee55dc76",
+        "course": "Agricultural Science & Food Security",
+        "code": "AGR203",
+        "grade": "A",
+        "score": 92,
+        "semester": "Semester 1, 2025/2026"
+      },
+      {
+        "id": "55e3eb41",
+        "course": "Mining Engineering & Resource Governance",
+        "code": "MIN204",
+        "grade": "A-",
+        "score": 91,
+        "semester": "Semester 2, 2024/2025"
+      },
+      {
+        "id": "e398b854",
+        "course": "Civil Engineering & Infrastructure Development",
+        "code": "CVE205",
+        "grade": "B",
+        "score": 85,
+        "semester": "Semester 2, 2024/2025"
+      }
+    ],
+    "immi": [],
+    "winiwini": [],
+    "aziza": [],
+    "osman": []
+  },
+  "attendance": {
+    "akamara": [
+      {
+        "id": "da06c9ff",
+        "course": "ENV201",
+        "attended": 22,
+        "total": 24
+      },
+      {
+        "id": "a1b20655",
+        "course": "PHC202",
+        "attended": 21,
+        "total": 24
+      },
+      {
+        "id": "89ddb1e5",
+        "course": "AGR203",
+        "attended": 24,
+        "total": 24
+      },
+      {
+        "id": "96518c15",
+        "course": "MIN204",
+        "attended": 20,
+        "total": 24
+      },
+      {
+        "id": "2afcf19f",
+        "course": "CVE205",
+        "attended": 23,
+        "total": 24
+      }
+    ],
+    "immi": [],
+    "winiwini": [],
+    "aziza": [],
+    "osman": []
+  },
+  "finance": {
+    "akamara": {
+      "total_fees": 5000,
+      "paid": 4200,
+      "history": [
+        {
+          "id": "87353c2a",
+          "date": "15 Aug 2025",
+          "description": "Tuition Instalment 1",
+          "amount": 1750,
+          "status": "paid"
+        },
+        {
+          "id": "189abef1",
+          "date": "01 Nov 2025",
+          "description": "Tuition Instalment 2",
+          "amount": 1750,
+          "status": "paid"
+        },
+        {
+          "id": "a10ca96f",
+          "date": "15 Jan 2026",
+          "description": "Tuition Instalment 3",
+          "amount": 700,
+          "status": "paid"
+        },
+        {
+          "id": "aa0cfb73",
+          "date": "15 Mar 2026",
+          "description": "Tuition Instalment 4",
+          "amount": 800,
+          "status": "due"
+        }
+      ]
+    },
+    "immi": {
+      "total_fees": 5000,
+      "paid": 0,
+      "history": []
+    },
+    "winiwini": {
+      "total_fees": 5000,
+      "paid": 0,
+      "history": []
+    },
+    "aziza": {
+      "total_fees": 5000,
+      "paid": 0,
+      "history": []
+    },
+    "osman": {
+      "total_fees": 5000,
+      "paid": 0,
+      "history": []
+    }
+  }
+}
